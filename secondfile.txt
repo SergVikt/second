@@ -1,0 +1,1 @@
+<p>document for second file</p>
